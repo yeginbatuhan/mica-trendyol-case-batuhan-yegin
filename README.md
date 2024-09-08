@@ -1,0 +1,1 @@
+# mica-trendyol-case-batuhan-yegin
