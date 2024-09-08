@@ -15,10 +15,10 @@ class LogService
    */
   public function log(string $level, string $message, array $context = null): void
   {
-    // Laravel'in default log sistemiyle dosyaya yazma
+    
     LaravelLog::$level($message, $context ?? []);
 
-    // Veritabanına kaydetme
+    
     Log::create([
       'level' => $level,
       'message' => $message,
