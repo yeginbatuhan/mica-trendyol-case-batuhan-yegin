@@ -13,7 +13,7 @@ bilgi sağlamaktadır.
 - MySQL
 - npm
 - Geliştirme sırasında kullanılmak üzere: `php artisan serve`
-- **Not:** Bu proje `npm run dev` olmadan çalışır, sadece `php artisan serve` ile çalıştırılmalıdır.
+- **Not:** Bu proje `npm run dev` olmadan çalışmaz, `php artisan serve` ile birliktr çalıştırılmalıdır.
 
 ## Kurulum
 
