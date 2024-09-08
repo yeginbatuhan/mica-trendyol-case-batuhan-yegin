@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ri-home-7-line",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/products",
+      "name": "Products",
+      "icon": "menu-icon tf-icons ri-product-hunt-fill",
+      "slug": "pages-product"
+    },
+    {
+      "url": "/logs",
+      "name": "Log",
+      "icon": "menu-icon tf-icons ri-alert-line",
+      "slug": "pages-misc-error"
+    }
+  ]
+}
